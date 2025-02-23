@@ -38,5 +38,11 @@
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^15.2.3",
     "vite": "^5.0.11"
-  }
+  },
+  "name": "melange-for-react-devs-template",
+  "description": "A simple project template using [Melange](https://github.com/melange-re/melange) with [opam](https://opam.ocaml.org/).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
